@@ -1,0 +1,13 @@
+1. git status
+2. git init
+3. git chechout -b main
+4. git add practice.txt
+5. git add --all
+6. git commit -m "First commit"
+7. git log
+8. git branch <branch-name>
+9. git branch
+10. git checkout <branch-name>
+
+
+
