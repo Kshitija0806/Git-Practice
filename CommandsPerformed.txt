@@ -10,4 +10,4 @@
 10. git checkout <branch-name>
 11. git chechout emergency-fix
 12. git merge emergency-fix
-
+13. git branch -d <branch-name>
